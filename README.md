@@ -30,5 +30,5 @@
 
  Run consumer.js separate/new terminal it will consume the message whatever producer will producer the message 
  
-
+Reference: https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01
 
